@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+이승민 
+응용통계
+데이터분석에 관심있음
 <!--
 **980606sam/980606sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
